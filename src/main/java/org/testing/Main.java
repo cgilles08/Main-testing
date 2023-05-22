@@ -1,7 +1,9 @@
 package org.testing;
 
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Java is sus!");
+    
+    public static void Main(String[] args) {
+        Window Window = new Window();
     }
+
 }
