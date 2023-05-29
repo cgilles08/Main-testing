@@ -1,9 +1,13 @@
 package org.testing;
 
 public class Main {
-    
-    public static void Main(String[] args) {
-        Window Window = new Window();
+
+    public static void main(String[] args) {
+
+        Window window = new Window();
+
+        window.run();
+
     }
 
 }
